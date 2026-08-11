@@ -1,5 +1,5 @@
 # Portfolio
-Hello again! I'm Luis and this is where I showcase my database and data management projects.  
+Hello again! I'm Luis and this is where I showcase my data analysis projects.  
 ## Table of Contents
 - [SQL](#sql)
 - [Tableau](#tableau)
