@@ -3,7 +3,7 @@ Hello again! I'm Luis and this is where I showcase my data analysis projects.
 ## Table of Contents
 - [SQL](#sql)
 - [Python](#python)
-- [Tableau](#tableau)
+- [PowerBI](#powerbi)
 
 ## SQL
 | Project | Area | Description |
@@ -15,7 +15,7 @@ Hello again! I'm Luis and this is where I showcase my data analysis projects.
 | ------| ------ | ------|
 | - | - | - |
 
-## Tableau
+## PowerBI
 | Project | Area | Description |
 | ------| ------ | ------|
 | - | - | - |
