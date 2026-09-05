@@ -13,7 +13,7 @@ Hello again! I'm Luis and this is where I showcase my data analysis projects.
 ## Python
 | Project | Area | Description |
 | ------ | ------ | ------ |
-| [E-Commerce Price Intelligence]() | Programming, Pandas, Power BI | Built a data pipeline that collects product information from the web, cleans and structures the data, and analyzes pricing and product trends. |
+| [PC Hardware Price Intelligence](https://github.com/KoiSky/Philippine-PC-Hardware-Price-Intelligence) | Programming, Pandas, Power BI | Built a data pipeline that collects product information from the web, cleans and structures the data, and analyzes pricing and product trends. |
 
 ## SQL
 | Project | Area | Description |
