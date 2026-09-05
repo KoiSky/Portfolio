@@ -8,7 +8,7 @@ Hello again! I'm Luis and this is where I showcase my data analysis projects.
 ## Data Analysis
 | Project | Description | Dashboard |
 | ------ | ------ | ------ |
-| [The Boom of AI and its Effect on the Philippine Stock Market](https://github.com/KoiSky/AI-Boom-and-its-effect-on-the-Philippine-Stock-Market) | A personal project that sparked my curiosity. I analyzed analyzed 4 years of PSEi price data surrounding the public release of ChatGPT, using SQL to calculate period returns and volatility and Power BI to visualize market trends. | [View Dashboard]() |
+| [The Boom of AI and its Effect on the Philippine Stock Market](https://github.com/KoiSky/AI-Boom-and-its-effect-on-the-Philippine-Stock-Market) | A personal project that sparked my curiosity. I analyzed 4 years of PSEi price data surrounding the public release of ChatGPT, using SQL to calculate period returns and volatility and Power BI to visualize market trends. | [View Dashboard]() |
 
 ## Python
 | Project | Area | Description |
